@@ -5,6 +5,8 @@
 
 2) For those who wish to view my original code, access `hangman.py`.
 
+3) For those who simply want to see how my code looks, visit [Trinket.io](https://trinket.io/python3/d3078fc168?outputOnly=true&runOption=run&showInstructions=true).
+
 ### Extras ###
 For those who want to use a random word generator:
 
