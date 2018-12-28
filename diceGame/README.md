@@ -1,0 +1,3 @@
+# Python diceGame #
+
+Difficulty: Beginner
