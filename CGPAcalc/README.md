@@ -1,4 +1,4 @@
-# Hangman Game #
+# CGPA Calculator #
 
 ### Instructions ###
 1) For those who wish to work on the code on their own first, access `CGPAcalculatorTemplate.py`.
