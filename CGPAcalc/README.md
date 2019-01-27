@@ -12,5 +12,4 @@ P.S. When I mention AU for GPA computation, it refers to the number of graded AU
 
 If you have any queries or bugs to raise, please leave a comment!<br>
 Cheers!
-If you have any queries or bugs to raise, please leave a comment!<br>
-Cheers!
+
